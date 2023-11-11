@@ -2,7 +2,6 @@
 out/
 *.idea
 *.iml
-Perem/
 
 !**/src/main/**/out/
 !**/src/test/**/out/
